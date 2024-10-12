@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- styles.xml -->
+<resources>
+    <!-- Estilo para os itens do Spinner -->
+    <style name="CustomSpinnerText">
+        <item name="android:textColor">#FF6200EE</item> <!-- Cor do texto -->
+        <item name="android:textSize">16sp</item> <!-- Tamanho do texto -->
+    </style>
+</resources>
